@@ -1,4 +1,4 @@
-# example-1-operationsOn2numbers
+# assignment-1-operationsOn2numbers
 Example Java project created via STS as Java Project, that does some basic math operations on 2 numbers, showing how to;
 - doing without any OOP or polymorphism - simple package,
 - doing with OOP and polymorphism - oop package,
